@@ -1,0 +1,32 @@
+# Données
+*.bam
+*.bai
+*.vcf.gz
+*.vcf.gz.tbi
+*.sam
+*.fq.gz
+*.fastq.gz
+hg38/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*_metrics.txt
+*_annovar.avinput
+
+# Logs
+*.log
+logs/
+
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
