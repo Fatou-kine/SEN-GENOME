@@ -22,6 +22,6 @@ Pipeline complet pour l'analyse de variants à partir de données WGS utilisant 
 
 ### Installation
 ```bash
-git clone https://github.com/votre-username/SENGENOME-PIPELINE.git
-cd SENGENOME-PIPELINE
+git clone https://github.com/Fatou-kine/SEN-GENOME
+cd SEN-GENOME
 pip install -r requirements.txt
